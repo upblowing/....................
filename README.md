@@ -4,11 +4,11 @@
 
 
 
-```bat
+```
 github.com/xjig
 
-dc   $  @slammable
-srv  $  discord.gg/rangewtf
+dc   <span style="color: red;">$</span>  @slammable  
+srv  <span style="color: blue;">$</span>  discord.gg/rangewtf
 ```
 
 &zwnj;
