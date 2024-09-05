@@ -15,8 +15,6 @@ srv  $  .gg/rangewtf
 
 [![Discord Presence](https://lanyard.kyrie25.me/api/1177497949601812512?gradient=FFFFFF-EFEFEF-CCCCCC-AAAAAA&waveColor=000000&waveSpotifyColor=000000&animationDuration=4s&showBanner=true&imgStyle=square&imgBorderRadius=100px&nameColor=FFFFFF)](https://discord.com/users/1177497949601812512)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xjig&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![](https://komarev.com/ghpvc/?username=xjig&color=brightgreen)
-
-
+[![Trophies](https://github-profile-trophy.vercel.app/?username=xjig&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
