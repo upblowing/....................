@@ -8,5 +8,5 @@ srv  $  range.wtf
 ```
 &zwnj; 
 &zwnj; 
-![](https://komarev.com/ghpvc/?username=xjig)
+[![](https://komarev.com/ghpvc/?username=xjig)](https://lanyard.kyrie25.me/api/1177497949601812512?waveColor=ffffff&waveSpotifyColor=ffffff&gradient=#000000)
 
