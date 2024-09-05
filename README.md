@@ -4,12 +4,11 @@
 
 
 
-```
+
 github.com/xjig
 
 dc   <span style="color: red;">$</span>  @slammable  
 srv  <span style="color: blue;">$</span>  discord.gg/rangewtf
-```
 
 &zwnj;
 &zwnj;
