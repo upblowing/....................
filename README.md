@@ -4,7 +4,7 @@
 ```csharp
 github.com/xjig
 dc   $  @xjig
-srv  $  range.wtf
+srv  $  .gg/rangewtf
 ```
 &zwnj; 
 &zwnj; 
