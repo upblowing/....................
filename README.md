@@ -8,5 +8,4 @@ srv  $  .gg/rangewtf
 ```
 &zwnj; 
 &zwnj; 
-<p><img align="center" src="https://lanyard.kyrie25.me/api/1177497949601812512?gradient=FFFFFF-EFEFEF-CCCCCC-AAAAAA&waveColor=000000&waveSpotifyColor=000000&animationDuration=4s&showBanner=true&imgStyle=square&imgBorderRadius=100px&nameColor=FFFFFF
-" /></p>
+<p><img align="center" src="https://lanyard.kyrie25.me/api/1177497949601812512?gradient=FFFFFF-EFEFEF-CCCCCC-AAAAAA&waveColor=000000&waveSpotifyColor=000000&animationDuration=4s&showBanner=true&imgStyle=square&imgBorderRadius=100px&nameColor=FFFFFF" /></p>
