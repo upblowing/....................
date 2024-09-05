@@ -4,7 +4,7 @@
 
 
 
-```cpp
+```py
 github.com/xjig
 
 dc   $  @slammable
