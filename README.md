@@ -2,10 +2,13 @@
 
 <img align="left" src="https://files.catbox.moe/bnm05t.png" width="147" alt="Profile Image" /> 
 
+
+
 ```csharp
 github.com/xjig
-dc   $  @xjig
-srv  $  .gg/rangewtf
+
+dc   $  @vxfk
+srv  $  discord.gg/rangewtf
 ```
 
 &zwnj;
