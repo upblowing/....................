@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=range.wtf+%7C+bio-link)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=8000&pause=&color=F70000&random=true&width=435&lines=range.wtf+%7C+Bio-Link)](https://git.io/typing-svg)
 <img align="left" src="https://files.catbox.moe/bnm05t.png" width="147"/> 
 
 ```csharp
