@@ -4,7 +4,7 @@
 
 
 
-```ssh
+```sh
 github.com/xjig
 
 dc   $  @slammable
