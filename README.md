@@ -4,7 +4,7 @@
 
 
 
-```sh
+```bat
 github.com/xjig
 
 dc   $  @slammable
