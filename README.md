@@ -18,6 +18,4 @@ srv  $  discord.gg/rangewtf
 
 [![Discord Presence](https://lanyard.kyrie25.me/api/1177497949601812512?gradient=FFFFFF-EFEFEF-CCCCCC-AAAAAA&waveColor=000000&waveSpotifyColor=000000&animationDuration=4s&showBanner=true&imgStyle=square&imgBorderRadius=100px&nameColor=FFFFFF)](https://discord.com/users/1177497949601812512)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xjig&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![xjig's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xjig&theme=react-dark&hide_border=true&color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
