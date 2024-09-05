@@ -7,7 +7,7 @@
 ```csharp
 github.com/xjig
 
-dc   $  @vxfk
+dc   $  @slammable
 srv  $  discord.gg/rangewtf
 ```
 
