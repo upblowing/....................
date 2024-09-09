@@ -1,10 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=8000&pause=8000&repeat=false&color=F7F7F7&width=435&lines=%F0%9F%91%8B+Welcome%2C+Im+xjig+)](https://git.io/typing-svg)  
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=8000&pause=8000&repeat=false&color=F7F7F7&width=435&lines=Im+a+developer!)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=8000&pause=8000&repeat=false&color=F7F7F7&width=435&lines=Languages%3A+)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=25000&pause=8000&repeat=false&color=F7D800&width=435&lines=JavaScript)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=25000&pause=8000&repeat=false&color=009BF7&width=435&lines=Python)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=25000&pause=8000&repeat=false&color=6C4EF7&width=435&lines=Php)](https://git.io/typing-svg)  
-## 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=8000&pause=&color=F7F7F7&random=true&width=435&lines=range.wtf+%7C+Bio-Link)](https://git.io/typing-svg)
