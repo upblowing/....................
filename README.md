@@ -10,14 +10,8 @@
 github.com/xjig
 ```
 ```php
-dc   $  @slammable
+dc   $  @skippin
 srv  $  discord.gg/rangewtf
 ```
 ## 
 &zwnj;
-&zwnj;
-
-<div align="center">
-
-[![Discord Presence](https://lanyard.kyrie25.me/api/1177497949601812512?gradient=FFFFFF-EFEFEF-CCCCCC-AAAAAA&waveColor=000000&waveSpotifyColor=000000&animationDuration=4s&showBanner=true&imgStyle=square&imgBorderRadius=100px&nameColor=FFFFFF)](https://discord.com/users/1177497949601812512)
-</div>
