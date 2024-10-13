@@ -15,3 +15,4 @@ srv  $  discord.gg/rangewtf
 ```
 ## 
 &zwnj;
+im down to colab on projects
